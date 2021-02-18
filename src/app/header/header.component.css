@@ -1,5 +1,7 @@
 .text-yellow{
     color: yellow;
+    font-family: 'Inconsolata', monospace;
+    font-size: larger;
 }
 
 .nav-bar-dark{
