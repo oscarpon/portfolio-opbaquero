@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "portfolio-opbaquero": {
+      "hosting": {
+        "portfolio": [
+          "portfolio-opbaquero"
+        ]
+      }
+    }
+  }
+}

@@ -1,13 +1,13 @@
-.text-yellow{
-    color: yellow;
-    font-family: 'Inconsolata', monospace;
-    font-size: larger;
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+
+.img-profile{
+    width: 15%;
+    height: 15%;
 }
 
-.navbar-dark{
-    color: yellow;
-}
-
-.nav-bar-dark{
-    background-color: black;
-}
