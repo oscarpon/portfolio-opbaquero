@@ -1,0 +1,9 @@
+.text-yellow{
+    color: yellow;
+    font-family: 'Inconsolata', monospace;
+    font-size: larger;
+}
+
+.footer-black{
+    background-color: black;
+}

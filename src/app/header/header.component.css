@@ -4,6 +4,10 @@
     font-size: larger;
 }
 
+.navbar-dark{
+    color: yellow;
+}
+
 .nav-bar-dark{
     background-color: black;
 }
